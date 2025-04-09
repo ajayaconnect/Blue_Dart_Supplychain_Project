@@ -10,7 +10,7 @@
 
 ## 📘 Project Overview
 
-> **"Streamline & Spotlight"** is a comprehensive Excel dashboard project that explores the intersection of **supply chain operations** and **digital consumer behavior**. This case study was inspired by DataCo Analysis Group and uses dual datasets to derive strategic insights on logistics, customer engagement, and product performance.
+> **"Streamline & Spotlight"** is a comprehensive Excel dashboard project that explores the intersection of **supply chain operations** and **digital consumer behavior**. This case study was inspired by Blue dart and uses dual datasets to derive strategic insights on logistics, customer engagement, and product performance.
 
 Through data wrangling, visualization, and storytelling, this project helps uncover **efficiencies**, **risks**, and **growth opportunities** across ecommerce operations.
 
