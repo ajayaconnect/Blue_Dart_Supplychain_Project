@@ -1,4 +1,4 @@
-# 📦 Ecommerce Streamline & Spotlight: Unraveling the Narrative of Supply Chain Excellence and Digital Footprints
+# 📦 Blue Dart Supply Chain Performance and Insights Analysis.
 
 ![Excel Project](https://img.shields.io/badge/Excel-Dashboard-blue?style=flat-square&logo=microsoft-excel)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
