@@ -104,3 +104,27 @@ Captures:
 
 ## 📁 Project Structure
 
+
+
+---
+
+## 👨‍💻 Author
+
+**Ajaya Kumar Pradhan**  
+🎓 Data Science Intern | Excel Dashboard Specialist  
+📍 Bhubaneswar, India  
+🔗 [LinkedIn](https://linkedin.com/in/ajaya-pradhan-1945341b0) • [GitHub](https://github.com/Ajaya210) • ✉️ ajayapradhan210@gmail.com
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🌟 Show Your Support!
+
+If you found this project helpful, feel free to give it a ⭐ on [GitHub](https://github.com/Ajaya210)!
+
+
