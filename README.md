@@ -6,6 +6,7 @@
 ![Last Updated](https://img.shields.io/badge/Last_Updated-April_2025-orange?style=flat-square)
 
 ---
+![Blue Dart](https://github.com/ajayaconnect/Blue_Dart_Supplychain_Project/blob/283494ac28d05d3aaec4be6f304d0b806b55ac9f/blue-dart%40logotyp.us.png)
 
 ## 📘 Project Overview
 
@@ -89,8 +90,7 @@ Captures:
 
 ## 📌 Dashboard Preview
 
-> *(Embed an image or gif of the Excel dashboard here)*  
-![Dashboard Preview](https://github.com/ajayaconnect/Blue_Dart_Supplychain_Project/blob/f3db84af228fb50e4bb37233a73d72506692bba6/Supplychain.png)
+ ![Dashboard Preview](https://github.com/ajayaconnect/Blue_Dart_Supplychain_Project/blob/f3db84af228fb50e4bb37233a73d72506692bba6/Supplychain.png)
 
 ---
 
