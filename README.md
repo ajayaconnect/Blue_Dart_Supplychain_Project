@@ -90,7 +90,7 @@ Captures:
 ## 📌 Dashboard Preview
 
 > *(Embed an image or gif of the Excel dashboard here)*  
-![Dashboard Preview](https://github.com/yourusername/your-repo-name/blob/main/assets/dashboard-preview.png)
+![Dashboard Preview]([https://github.com/yourusername/your-repo-name/blob/main/assets/dashboard-preview.png](https://github.com/ajayaconnect/Blue_Dart_Supplychain_Project/blob/f3db84af228fb50e4bb37233a73d72506692bba6/Supplychain.png))
 
 ---
 
